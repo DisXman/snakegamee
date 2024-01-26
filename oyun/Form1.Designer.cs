@@ -52,9 +52,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
             this.label1.Location = new System.Drawing.Point(101, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 25);
+            this.label1.Size = new System.Drawing.Size(89, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "PUAN:";
+            this.label1.Text = "SCORE:";
             // 
             // label2
             // 
